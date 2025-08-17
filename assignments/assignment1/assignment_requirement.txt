@@ -1,0 +1,30 @@
+Python Beginner Assignment
+
+Create a file name with assingnment1.py and add all assignment code in it.
+Last assignment deadline 24 august 2025, push code before Deadline
+
+Step 1 – Take input from the user:
+- Ask the user for their name
+- Ask the user for their age
+- Ask the user for their 3 favourite fruits (comma-separated)
+
+Step 2 – Work with the input:
+- Convert the age value to an integer
+- Split the fruits string into a list (hint: split(','))
+
+Step 3 – Use string functions:
+- Print a greeting using f-string, e.g. Good Afternoon, <name>
+- Print the user’s name in uppercase
+- Print the length of the user’s name
+
+Step 4 – List practice:
+- Print the first and last fruit from the fruit list
+- Add one more fruit to the list by using .append()
+- Print the complete list
+
+Step 5 – Tuple practice (related to fruit list):
+- Convert the fruit list into a tuple
+- Print the length of the tuple
+
+Step 6 – Bonus (related to age input):
+- Use the age value and print its square using the ** operator
